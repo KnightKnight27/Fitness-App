@@ -1,2 +1,1 @@
-# Fitness App
- 
+Fitness App
